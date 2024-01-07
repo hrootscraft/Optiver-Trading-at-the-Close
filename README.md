@@ -1,2 +1,2 @@
-# Optiver-Trading-at-the-Close
-Model Selection | Attempts 
+# Optiver Trading at the Close
+EDA | Model Selection | Attempts
